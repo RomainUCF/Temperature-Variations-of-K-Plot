@@ -1,3 +1,44 @@
-# Temperature-Variations-of-K-Plot
+# Temperature Variations of K Plot
 
-The purpose of this demo software is to take in input from the user to calculate and plot the Natural Log of K with repsect to 1/Temperature with a best fit line.
+The purpose of this demo is to calculate an plot lab data plot using [matplotlib](https://matplotlib.org/) .
+
+
+
+## Usage
+
+Insert temperature test tube values in Celsius. Press enter to submit a data point, press x to stop entering temperature values and continue.
+```bash
+Temperature in Celsius of Sample #1: 61.3
+-enter-
+Temperature in Celsius of Sample #2: 54.9
+-enter-
+Temperature in Celsius of Sample #3: 43.2
+-enter-
+Temperature in Celsius of Sample #4: 30.6
+-enter-
+Temperature in Celsius of Sample #5: 23.2
+Temperature in Celsius of Sample #6: x
+```
+Insert the final burette reading of HCL (mL) separated by a comma (',') followed by the initial burette reading of HCL (mL) and press enter, press x to stop entering burette data and continue. 
+
+```bash
+(Final Burette Reading in mL) insert ',' (Initial Burette Reading in mL) for Sample #1: 25.40,3.20
+(Final Burette Reading in mL) insert ',' (Initial Burette Reading in mL) for Sample #1: 21.8,1.30
+(Final Burette Reading in mL) insert ',' (Initial Burette Reading in mL) for Sample #3: 18.20,8.90
+(Final Burette Reading in mL) insert ',' (Initial Burette Reading in mL) for Sample #4: 13.80,4.30
+(Final Burette Reading in mL) insert ',' (Initial Burette Reading in mL) for Sample #5: 16.42,13.60
+(Final Burette Reading in mL) insert ',' (Initial Burette Reading in mL) for Sample #6: x
+```
+Example Output
+```bash
+y= -14291.738115291102 x+ 44.55578285619493
+  Temperature (K)      1/T    Volume of HCL    Moles of H+    Moles of Borax    Molarity of Borax    Natural Log of Borax    3 Natural Log of Borax    Natural Log of Equilibrium Expression
+-----------------  -------  ---------------  -------------  ----------------  -------------------  ----------------------  ------------------------  ---------------------------------------
+        334.30000  0.00299          0.02220        0.01039           0.00519              1.03896                 0.03822                   0.11466                                  1.50095
+        327.90000  0.00305          0.02050        0.00959           0.00480              0.95940                -0.04145                  -0.12434                                  1.26195
+        316.20000  0.00316          0.00930        0.00435           0.00218              0.43524                -0.83186                  -2.49557                                 -1.10928
+        303.60000  0.00329          0.00950        0.00445           0.00222              0.44460                -0.81058                  -2.43174                                 -1.04545
+        296.20000  0.00338          0.00282        0.00132           0.00066              0.13198                -2.02514                  -6.07541                                 -4.68911
+
+```
+
