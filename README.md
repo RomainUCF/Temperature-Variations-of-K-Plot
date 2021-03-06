@@ -5,7 +5,7 @@ The purpose of this demo is to calculate and plot variations of K lab data using
 ## Disclaimer
 Output data is calculated to the ten-thousandths place (.4f) with the exclusion of Temperature (K).
 
-K = 273 (Celsius to Conversion)
+K = 273 (Celsius to Kelvin Conversion)
 
 ## Usage
 
