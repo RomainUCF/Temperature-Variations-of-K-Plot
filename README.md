@@ -1,6 +1,6 @@
 # Temperature Variations of K Plot
 
-The purpose of this demo is to calculate an plot lab data plot using [matplotlib](https://matplotlib.org/) .
+The purpose of this demo is to calculate an plot lab data using [matplotlib](https://matplotlib.org/) .
 
 
 
