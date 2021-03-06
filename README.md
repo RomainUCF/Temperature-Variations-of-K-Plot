@@ -29,7 +29,7 @@ Insert the final burette reading of HCL (mL) separated by a comma (',') followed
 (Final Burette Reading in mL) insert ',' (Initial Burette Reading in mL) for Sample #5: 16.42,13.60
 (Final Burette Reading in mL) insert ',' (Initial Burette Reading in mL) for Sample #6: x
 ```
-Example Output
+##Example Output
 ```bash
 y= -14291.738115291102 x+ 44.55578285619493
   Temperature (K)      1/T    Volume of HCL    Moles of H+    Moles of Borax    Molarity of Borax    Natural Log of Borax    3 Natural Log of Borax    Natural Log of Equilibrium Expression
