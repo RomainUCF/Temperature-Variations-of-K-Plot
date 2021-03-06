@@ -1,8 +1,11 @@
 # Temperature Variations of K Plot
 
-The purpose of this demo is to calculate an plot lab data using [matplotlib](https://matplotlib.org/) .
+The purpose of this demo is to calculate and plot variations of K lab data using [matplotlib](https://matplotlib.org/).
 
+## Disclaimer
+Output data is calculated to the ten-thousandths place (.4f) with the exclusion of Temperature (K).
 
+K = 273 (Celsius to Conversion)
 
 ## Usage
 
@@ -50,5 +53,10 @@ y= -14291.738115291102 x+ 44.55578285619493
 
 ```
 ![779cd17e078130e2a3aafffc77f9b47a](https://user-images.githubusercontent.com/63273069/110224542-9a1c0600-7eaa-11eb-9336-0a03ca6e3f98.png)
+
+## Excel Version
+![ex](https://user-images.githubusercontent.com/63273069/110224769-85d90880-7eac-11eb-9771-e639bf82df5f.png)
+
+
 
 
