@@ -17,17 +17,25 @@ Temperature in Celsius of Sample #3: 43.2
 Temperature in Celsius of Sample #4: 30.6
 -enter-
 Temperature in Celsius of Sample #5: 23.2
+-enter-
 Temperature in Celsius of Sample #6: x
+-enter-
 ```
 Insert the final burette reading of HCL (mL) separated by a comma (',') followed by the initial burette reading of HCL (mL) and press enter, press x to stop entering burette data and continue. 
 
 ```bash
 (Final Burette Reading in mL) insert ',' (Initial Burette Reading in mL) for Sample #1: 25.40,3.20
+-enter-
 (Final Burette Reading in mL) insert ',' (Initial Burette Reading in mL) for Sample #1: 21.8,1.30
+-enter-
 (Final Burette Reading in mL) insert ',' (Initial Burette Reading in mL) for Sample #3: 18.20,8.90
+-enter-
 (Final Burette Reading in mL) insert ',' (Initial Burette Reading in mL) for Sample #4: 13.80,4.30
+-enter-
 (Final Burette Reading in mL) insert ',' (Initial Burette Reading in mL) for Sample #5: 16.42,13.60
+-enter-
 (Final Burette Reading in mL) insert ',' (Initial Burette Reading in mL) for Sample #6: x
+-enter-
 ```
 ##Example Output
 ```bash
