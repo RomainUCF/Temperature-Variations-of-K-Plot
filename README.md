@@ -3,7 +3,7 @@
 The purpose of this demo is to calculate and plot variations of K lab data using [matplotlib](https://matplotlib.org/). This project is on going development.
 
 ## Disclaimer
-There is a low systematic error in the calculation of y=mx+b.
+[There is a low systematic error in the calculation of y=mx+b](https://github.com/RomainUCF/Temperature-Variations-of-K-Plot/issues/1).
 
 Output data is calculated to the ten-thousandths place (.4f) with the exclusion of Temperature (K).
 
