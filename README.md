@@ -7,7 +7,7 @@ The purpose of this demo is to calculate and plot variations of K lab data using
 
 Output data is calculated to the hundred-thousandths place (.5f) with the exclusion of Temperature (K).
 
-K = 273 (Celsius to Kelvin Conversion)
+K = 273.15 (Celsius to Kelvin Conversion)
 
 ## Checking Python Version
 
