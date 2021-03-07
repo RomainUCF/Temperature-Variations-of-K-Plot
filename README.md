@@ -9,7 +9,61 @@ Output data is calculated to the hundred-thousandths place (.5f) with the exclus
 
 K = 273 (Celsius to Kelvin Conversion)
 
-## Usage
+## Checking Python Version
+
+Press the Windows Key.
+
+Search for Windows Powershell, open Windows Powershell.
+
+Type 'python -V'
+
+![python](https://user-images.githubusercontent.com/63273069/110226992-9f387f80-7ec1-11eb-87bb-348c5ed86ca2.png)
+
+If Python isnt't installed continue.
+
+## Python3 Interpreter Installation
+
+Install the latest version of [Python](https://www.python.org/downloads/)
+
+Complete the installation setup for Python3.
+
+## PyCharm Installation 
+
+Install [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) Community or Professional Edition.
+![py](https://user-images.githubusercontent.com/63273069/110227607-1bce5c80-7ec8-11eb-8bfc-78011e451a21.png)
+
+## Matplotlib, NumPy, Tabulate Installation Through PyCharm Terminal
+Run and install missing dependecies if applicable. 
+![term](https://user-images.githubusercontent.com/63273069/110227765-a9f71280-7ec9-11eb-8579-52febae33a5b.png)
+
+```bash
+pip install matplotlib
+pip install numpy
+pip install tabulate 
+```
+
+## Run with PyCharm
+
+Download the project.
+
+![install](https://user-images.githubusercontent.com/63273069/110227859-81bbe380-7eca-11eb-8bb8-177f94170276.png)
+
+
+Save it in a folder. Remember this location.
+
+Start PyCharm.
+
+![configure pycharm2 091120](https://user-images.githubusercontent.com/63273069/110227672-dfe7c700-7ec8-11eb-8bae-b7c8715a49d2.png)
+
+Open the project from the directory you saved it in or use Version Control to import from 'https://github.com/RomainUCF/Temperature-Variations-of-K-Plot.git'.
+
+![image](https://user-images.githubusercontent.com/63273069/110227791-dd39a180-7ec9-11eb-9228-4098fdd3ef08.png)
+
+
+*let PyCharm update any missing dependencies. 
+
+## Usage 
+
 
 Insert temperature test tube values in Celsius. Press enter to submit a data point, press x to stop entering temperature values and continue.
 ```bash
