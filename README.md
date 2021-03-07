@@ -117,6 +117,8 @@ y= -14291.738115291102 x+ 44.55578285619493
 ![779cd17e078130e2a3aafffc77f9b47a](https://user-images.githubusercontent.com/63273069/110224542-9a1c0600-7eaa-11eb-9336-0a03ca6e3f98.png)
 
 ## Excel Version
+![image](https://user-images.githubusercontent.com/63273069/110244295-07bc4680-7f2c-11eb-9d09-9d30e7b5278d.png)
+
 ![ex](https://user-images.githubusercontent.com/63273069/110224769-85d90880-7eac-11eb-9771-e639bf82df5f.png)
 
 
