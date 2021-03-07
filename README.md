@@ -1,8 +1,10 @@
 # Temperature Variations of K Plot
 
-The purpose of this demo is to calculate and plot variations of K lab data using [matplotlib](https://matplotlib.org/).
+The purpose of this demo is to calculate and plot variations of K lab data using [matplotlib](https://matplotlib.org/). This project is ongoing development.
 
 ## Disclaimer
+Values are precise but not accurate.
+
 Output data is calculated to the ten-thousandths place (.4f) with the exclusion of Temperature (K).
 
 K = 273 (Celsius to Kelvin Conversion)
@@ -41,6 +43,10 @@ Insert the final burette reading of HCL (mL) separated by a comma (',') followed
 -enter-
 ```
 ## Example Output
+
+Given Data:
+Temp(C): 61.3 |54.9 | 43.2 | 30.6 | 23.2
+Burrette Readings (mL): 25.40,3.20 | 21.80,1.30 | 18.20, 8.90 | 13.80, 4.30 | 16.42, 13.60
 ```bash
 y= -14291.738115291102 x+ 44.55578285619493
   Temperature (K)      1/T    Volume of HCL    Moles of H+    Moles of Borax    Molarity of Borax    Natural Log of Borax    3 Natural Log of Borax    Natural Log of Equilibrium Expression
