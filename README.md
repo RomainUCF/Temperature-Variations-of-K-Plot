@@ -19,7 +19,7 @@ Type 'python -V'
 
 ![python](https://user-images.githubusercontent.com/63273069/110226992-9f387f80-7ec1-11eb-87bb-348c5ed86ca2.png)
 
-If Python isn't installed continue.
+If Python isn't installed, continue or skip ahead to the next step.
 
 ## Python3 Interpreter Installation
 
