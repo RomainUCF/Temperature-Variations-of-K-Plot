@@ -5,7 +5,7 @@ The purpose of this demo is to calculate and plot variations of K lab data using
 ## Disclaimer
 [There is a low systematic error in the calculation of y=mx+b](https://github.com/RomainUCF/Temperature-Variations-of-K-Plot/issues/1).
 
-Output data is calculated to the ten-thousandths place (.5f) with the exclusion of Temperature (K).
+Output data is calculated to the hundred-thousandths place (.5f) with the exclusion of Temperature (K).
 
 K = 273 (Celsius to Kelvin Conversion)
 
