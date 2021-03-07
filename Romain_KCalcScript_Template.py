@@ -1,7 +1,7 @@
 ########################################
 # @AUTHOR TAYLOR ROMAIN                #
 # @DATE 3-6-2021                       #
-# Romain_KCalcScript.py                #
+# __main__.py                #
 ########################################
 
 import matplotlib.pyplot as plt

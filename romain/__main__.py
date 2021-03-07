@@ -1,7 +1,7 @@
 ########################################
 # @AUTHOR TAYLOR ROMAIN                #
 # @DATE 3-6-2021                       #
-# Romain_KCalcScript.py                #
+# __main__.py                #
 ########################################
 
 import matplotlib.pyplot as plt
@@ -43,7 +43,7 @@ def main():
             temperature = float(temperature)
 
             # Celsius to Kelvin Conversion
-            CelsiusToKelvin = (temperature + 273)
+            CelsiusToKelvin = (temperature + 273.15)
             #1/T Calculation
             Divided_Temperature = 1 / CelsiusToKelvin
             # Add the data to the lists declared above.

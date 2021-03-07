@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c9aaa98a-5cfc-4be9-9a47-44c38363ca6c" name="Server" url="http://localhost">
+        <fileTransfer mountedRoot="C:\Users\Apollo\PycharmProjects\VariOfK\server_deploy" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
