@@ -1,6 +1,8 @@
 # Temperature Variations of K Plot
 
-The purpose of this demo is to calculate and plot variations of K lab data using [matplotlib](https://matplotlib.org/). This project is ongoing development.
+The purpose of this demo is to calculate and plot variations of K lab data using [matplotlib](https://matplotlib.org/). 
+
+This project is on going development.
 
 ## Disclaimer
 Values are precise but not accurate.
