@@ -1,9 +1,9 @@
 # Temperature Variations of K
 
-The purpose of this demo is to calculate and plot variations of K lab data using [matplotlib](https://matplotlib.org/) due to inconsistent rounding. This project is on going development.
+The purpose of this demo is to calculate and plot variations of K lab data using [matplotlib](https://matplotlib.org/). This project is on going development.
 
 ## Disclaimer
-[There is a low systematic error in the calculation of y=mx+b](https://github.com/RomainUCF/Temperature-Variations-of-K-Plot/issues/1).
+[There is a low systematic error in the calculation of y=mx+b](https://github.com/RomainUCF/Temperature-Variations-of-K-Plot/issues/1) due to inconsistent rounding.
 
 Output data is calculated to the hundred-thousandths place (.5f) with the exclusion of Temperature (K).
 
