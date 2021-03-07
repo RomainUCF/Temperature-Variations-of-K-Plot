@@ -33,11 +33,12 @@ Install [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) C
 ![py](https://user-images.githubusercontent.com/63273069/110227607-1bce5c80-7ec8-11eb-8bfc-78011e451a21.png)
 
 ## Matplotlib, NumPy, Tabulate Installation Through PyCharm Terminal
+Run and install missing dependecies if applicable. 
 ![term](https://user-images.githubusercontent.com/63273069/110227765-a9f71280-7ec9-11eb-8579-52febae33a5b.png)
 
 ```bash
 pip install matplotlib
-pip isntall numpy
+pip install numpy
 pip install tabulate 
 ```
 
