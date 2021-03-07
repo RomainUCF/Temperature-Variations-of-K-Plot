@@ -21,7 +21,7 @@ Type 'python -V'
 
 If Python isnt't installed continue.
 
-## Python3 Interprater Installation
+## Python3 Interpreter Installation
 
 Install the latest version of [Python](https://www.python.org/downloads/)
 
