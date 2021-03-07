@@ -45,7 +45,9 @@ pip install tabulate
 ## Run with PyCharm
 
 Download the project.
-![python](https://user-images.githubusercontent.com/63273069/110227334-33581600-7ec5-11eb-9f65-5cf188cb1440.png)
+
+![install](https://user-images.githubusercontent.com/63273069/110227859-81bbe380-7eca-11eb-8bb8-177f94170276.png)
+
 
 Save it in a folder. Remember this location.
 
