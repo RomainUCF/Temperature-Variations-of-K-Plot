@@ -44,7 +44,7 @@ Insert the final burette reading of HCL (mL) separated by a comma (',') followed
 ```
 ## Example Output
 
-Example Data from Lab Report:
+Data taken from Lab Notebook:
 
 Temp(C): 61.3 |54.9 | 43.2 | 30.6 | 23.2
 
